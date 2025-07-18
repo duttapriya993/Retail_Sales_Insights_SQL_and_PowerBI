@@ -1,6 +1,6 @@
 # 📊 Retail Sales Insights: SQL Analysis & Power BI Dashboard
 
-![Banner](Retail_Sales_Banner.PNG)
+![Banner](Retail_Sales_Banner.png)
 
 ---
 
