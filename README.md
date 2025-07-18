@@ -36,7 +36,7 @@ This project combines **SQL for data preparation and exploratory analysis** with
 ---
 
 ## 📈 Dashboard Preview
-▶ **[Download Full Dashboard (PDF)](Retail_Sales_Insights PowerBI_PriyaDutta.pdf)**  
+▶ **[Download Full Dashboard (PDF)](Retail_Sales_Insights_PowerBI_PriyaDutta.pdf)**  
 *(Power BI `.pbix` file is included in the repository)*  
 
 ---
