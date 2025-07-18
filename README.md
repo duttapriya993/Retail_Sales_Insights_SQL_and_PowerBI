@@ -84,5 +84,8 @@ This project combines **SQL for data preparation and exploratory analysis** with
 
 ---
 
+📅 Project Timeline: June 2025
+
+---
 
 
