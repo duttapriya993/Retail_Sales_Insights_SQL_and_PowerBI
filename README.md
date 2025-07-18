@@ -1,6 +1,8 @@
+![Banner](Retail_Sales_Banner.png)
+
 # 📊 Retail Sales Insights: SQL Analysis & Power BI Dashboard
 
-![Banner](Retail_Sales_Banner.png)
+![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)
 
 ---
 
