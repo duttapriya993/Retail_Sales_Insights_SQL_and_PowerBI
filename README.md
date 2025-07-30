@@ -90,9 +90,8 @@ This project combines **SQL for data preparation and exploratory analysis** with
 
 ---
 
-## License
-This project is proprietary and protected by copyright law.
-Unauthorized copying, distribution, or reuse is strictly prohibited.
+## 🔒 License  
+This project is licensed under a **custom proprietary license**. Please refer to the [LICENSE](./LICENSE) file for detailed terms and usage restrictions.
 
 ---
 
