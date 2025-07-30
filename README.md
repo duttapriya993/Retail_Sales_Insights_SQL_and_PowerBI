@@ -90,6 +90,13 @@ This project combines **SQL for data preparation and exploratory analysis** with
 
 ---
 
+##🤖 AI Tools Used
+
+I used ChatGPT to help write and structure SQL queries and to improve how I presented insights.
+The dashboard design, visuals, and layout were completely created by me.
+
+---
+
 ## 🔒 License  
 This project is licensed under a **custom proprietary license**. Please refer to the [LICENSE](./LICENSE) file for detailed terms and usage restrictions.
 
