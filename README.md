@@ -90,12 +90,6 @@ This project combines **SQL for data preparation and exploratory analysis** with
 
 ---
 
-##🤖 AI Tools Used
-
-Used ChatGPT for support with SQL queries and Power BI design planning. All implementation was done independently.
-
----
-
 ## 🔒 License  
 This project is licensed under a **custom proprietary license**. Please refer to the [LICENSE](./LICENSE) file for detailed terms and usage restrictions.
 
